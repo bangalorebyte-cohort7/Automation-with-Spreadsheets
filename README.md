@@ -9,4 +9,8 @@ For today's first assignment, you will use the **censuspopdata.xlsx** and do the
 For today's second assignmen, you will use the **produceSales.xlsx** and do the following: 
       1) Read the data from the Excel spreadsheet.
       2) Increase the "Cost per pound" for garlic, celery, and lemons by 0.07 cents. 
-   
+
+
+References - 
+https://automatetheboringstuff.com/chapter12/#calibre_link-65
+http://openpyxl.readthedocs.io/en/default/   
